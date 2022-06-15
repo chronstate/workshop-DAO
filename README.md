@@ -21,12 +21,10 @@ We will be going through the contract best practices https://consensys.github.io
 Questions that were asked during the workshop:
 * what is a DAO? is there a lowerlevel way of making DAO?
 
-*
-
 ## Lecture
 During the lecture information on smart contracts best practices and  Dao are provided  The slides are at https:
 
-[DAO diagram](https://raw.githubusercontent.com/ethereumbook/ethereumbook/develop/images/evm-architecture.png)
+[DAO diagram](https://ethereum.org/static/d17b5ecb3655c50d6540e590a93d65e7/fda7d/dao-2.webp)
 
 ## Resources
 
