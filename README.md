@@ -43,8 +43,8 @@ During the lecture information on smart contracts best practices and  Dao are pr
 * https://gitter.im/ethereum/solidity - chatroom for discussing solidity code
 
 
+### Practice
+* https://github.com/Bibi10/SmartHack/blob/master/solidityWorkshopv812.sol - Find, correct or exploit contracts
+
 ### Tools
 * https://remix.ethereum.org - browserbased soldity ide, very popular in the community
-
-### Practice
-* https://github.com/Bibi10/SmartHack ](https://github.com/Bibi10/SmartHack/blob/master/solidityWorkshopv812.sol)- Find, correct or exploit contracts
