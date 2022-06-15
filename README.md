@@ -25,6 +25,7 @@ Questions that were asked during the workshop:
 During the lecture information on smart contracts best practices and  Dao are provided  The slides are at https:
 
 [DAO diagram](https://ethereum.org/static/d17b5ecb3655c50d6540e590a93d65e7/fda7d/dao-2.webp)
+[DAO Lecture] (https://docs.google.com/document/d/1fLnwOB5zzSaijvxEyJg2gR6lyOacDbWwiVKnC4Jqs6s)
 
 ## Resources
 
